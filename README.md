@@ -2,15 +2,15 @@
 
 [![Oxylabs promo code](https://user-images.githubusercontent.com/129506779/250792357-8289e25e-9c36-4dc0-a5e2-2706db797bb5.png)](https://oxylabs.go2cloud.org/aff_c?offer_id=7&aff_id=877&url_id=112)
 
-Oxylabs’ [Marketplace Scraper](https://oxylabs.io/products/scraper-api/web/marketplace-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from an Marketplace website effortlessly. This brief guide explains how an Marketplace Scraper works and provides code examples to understand better how you can use it hassle-free.
+Oxylabs’ [Marketplace Scraper](https://oxylabs.io/products/scraper-api/web/marketplace-scraper?utm_source=github&utm_medium=repositories&utm_campaign=product) is a data gathering solution allowing you to extract real-time information from any marketplace effortlessly. This brief guide explains how a Marketplace Scraper works and provides code examples to understand better how you can use it hassle-free.
 
 ### How it works
 
-You can get Marketplace results by providing your own URLs to our service. We can return the HTML for any Marketplace page you like.
+You can get marketplace results by providing your own URLs to our service. We can return the HTML for any marketplace you like.
 
 #### Python code example
 
-The example below illustrates how you can get HTML of Marketplace page.
+The example below illustrates how you can get [swappa.com](https://swappa.com/sneakers/air-jordans) marketplace results.
 
 ```python
 import requests
